@@ -83,7 +83,6 @@ Tableau
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository:
  ```bash
  git clone https://gitlab.com/hassan2905839/project2.git
 Navigate to the project directory:
