@@ -76,6 +76,11 @@ The logistic regression model demonstrates satisfactory performance in predictin
 
 ## Installation
 
+Python >= 3.12
+Jupyter Notebook
+Git
+Tableau
+
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
@@ -86,6 +91,17 @@ bash
 Copy code
 cd project2
 Install the required packages:
-bash
-Copy code
-pip install -r requirements.txt
+
+pip install numpy
+pip install geopandas
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+
+Git Commands:
+
+cd existing_repo
+git remote add origin https://gitlab.com/hassan2905839/dts.git
+
+git branch -M main
+git push -uf origin main
